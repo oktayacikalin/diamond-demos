@@ -1,0 +1,15 @@
+ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground
+ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground
+ground,ground,ground,:0:tl,:0:t,:0:t,:0:t,:0:tr,ground,ground,:0:tl,:0:t,:0:t,:0:t,:0:tr,ground,ground,ground,ground,ground
+ground,ground,ground,:0:l,:0:m,:0:m,:0:m,:0:r,ground,ground,:0:l,:0:m,:0:m,:0:m,:0:r,ground,ground,ground,ground,ground
+ground,ground,ground,:0:bl,:0:b,:0:b,:0:lb,:0:rt,:0:t,:0:t,:0:lt,:0:rb,:0:b,:0:b,:0:br,ground,ground,ground,ground,ground
+ground,ground,ground,ground,ground,ground,:0:l,:0:rb,:0:blr,:0:blr,:0:lb,:0:r,ground,ground,ground,ground,ground,:0:inner,ground,ground
+ground,ground,ground,ground,ground,ground,:0:l,:0:rtb,:0:outter,1,:0:ltb,:0:r,ground,ground,:0:inner,ground,ground,ground,ground,ground
+ground,ground,ground,ground,ground,ground,:0:l,:0:rt,:0:tlr,:0:tlr,:0:lt,:0:r,ground,ground,ground,ground,ground,ground,ground,ground
+ground,ground,ground,:0:tl,:0:t,:0:t,:0:lt,:0:rb,:0:b,:0:b,:0:lb,:0:rt,:0:t,:0:t,:0:tr,ground,ground,ground,:0:inner,ground
+ground,ground,ground,:0:l,:0:m,:0:m,:0:m,:0:r,ground,ground,:0:l,:0:m,:0:m,:0:m,:0:r,ground,ground,ground,ground,ground
+ground,ground,ground,:0:bl,:0:b,:0:b,:0:b,:0:b_rt,:0:t_rb,:0:t_lb,:0:b_lt,:0:b,:0:b,:0:b,:0:br,ground,ground,ground,ground,ground
+ground,ground,ground,ground,ground,ground,ground,ground,:0:l_rt,:0:r_lt,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground
+ground,ground,ground,ground,:0:tl,:0:t,:0:t,:0:t,:0:lt,:0:rt,:0:t,:0:t,:0:t,:0:tr,ground,ground,ground,ground,ground,ground
+ground,ground,ground,ground,:0:bl,:0:b,:0:b,:0:b,:0:b,:0:b,:0:b,:0:b,:0:b,:0:br,ground,ground,ground,ground,ground,ground
+ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground,ground
